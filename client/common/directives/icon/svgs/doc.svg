@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="0522-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-2" transform="translate(-709.000000, -1388.000000)" fill="#888888">
-            <g id="Page-1" transform="translate(709.000000, 1388.000000)">
-                <polygon id="Fill-1" points="4 6.20000005 8 6.20000005 8 5 4 5"></polygon>
-                <polygon id="Fill-2" points="4 9.20000005 10.4000001 9.20000005 10.4000001 8 4 8"></polygon>
-                <polygon id="Fill-3" points="4 12.2 10.4000001 12.2 10.4000001 11 4 11"></polygon>
-                <path d="M1.68774414,14.375 L1.68774414,1.8125 L9,1.8125 L9,5 L12.3127441,5 L12.3127441,14.375 L1.68774414,14.375 Z M10,0 L1,0 C0.4,0 0,0.4 0,1 L0,15 C0,15.6 0.4,16 1,16 L13,16 C13.6,16 14,15.6 14,15 L14,3 L10,0 Z" id="Fill-4"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="16" version="1.1" viewBox="0 0 14 16"><desc>Created with Sketch.</desc><g id="0522-v1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Artboard-2" fill="#888" transform="translate(-709.000000, -1388.000000)"><g id="Page-1" transform="translate(709.000000, 1388.000000)"><polygon id="Fill-1" points="4 6.2 8 6.2 8 5 4 5"/><polygon id="Fill-2" points="4 9.2 10.4 9.2 10.4 8 4 8"/><polygon id="Fill-3" points="4 12.2 10.4 12.2 10.4 11 4 11"/><path id="Fill-4" d="M1.68774414,14.375 L1.68774414,1.8125 L9,1.8125 L9,5 L12.3127441,5 L12.3127441,14.375 L1.68774414,14.375 Z M10,0 L1,0 C0.4,0 0,0.4 0,1 L0,15 C0,15.6 0.4,16 1,16 L13,16 C13.6,16 14,15.6 14,15 L14,3 L10,0 Z"/></g></g></g></svg>

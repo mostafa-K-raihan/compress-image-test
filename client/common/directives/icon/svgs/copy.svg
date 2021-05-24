@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>Combined Shape</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Bulk-Actions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Asset-Approval_B2_hover" transform="translate(-1132.000000, -663.000000)" fill="#177DD6" fill-rule="nonzero">
-            <path d="M1144,666.539062 L1144,674.789062 C1144,675.203813 1143.66475,675.539062 1143.25,675.539062 L1135,675.539062 L1135,674.039062 L1142.5,674.039062 L1142.5,666.539062 L1144,666.539062 Z M1140.25,663.539062 C1140.66475,663.539062 1141,663.875063 1141,664.289062 L1141,671.789062 C1141,672.203813 1140.66475,672.539062 1140.25,672.539062 L1132.75,672.539062 C1132.33525,672.539062 1132,672.203813 1132,671.789062 L1132,664.289062 C1132,663.875063 1132.33525,663.539062 1132.75,663.539062 L1140.25,663.539062 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="13" version="1.1" viewBox="0 0 12 13"><title>Combined Shape</title><desc>Created with Sketch.</desc><g id="Bulk-Actions" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Asset-Approval_B2_hover" fill="#177DD6" fill-rule="nonzero" transform="translate(-1132.000000, -663.000000)"><path id="Combined-Shape" d="M1144,666.539062 L1144,674.789062 C1144,675.203813 1143.66475,675.539062 1143.25,675.539062 L1135,675.539062 L1135,674.039062 L1142.5,674.039062 L1142.5,666.539062 L1144,666.539062 Z M1140.25,663.539062 C1140.66475,663.539062 1141,663.875063 1141,664.289062 L1141,671.789062 C1141,672.203813 1140.66475,672.539062 1140.25,672.539062 L1132.75,672.539062 C1132.33525,672.539062 1132,672.203813 1132,671.789062 L1132,664.289062 C1132,663.875063 1132.33525,663.539062 1132.75,663.539062 L1140.25,663.539062 Z"/></g></g></svg>

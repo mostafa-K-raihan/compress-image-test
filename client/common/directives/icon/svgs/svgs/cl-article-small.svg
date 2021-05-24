@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-Copy" transform="translate(-191.000000, -490.000000)" stroke="#2E2A26">
+            <g id="Group" transform="translate(192.000000, 491.000000)">
+                <g id="single-folded-content-copy">
+                    <path d="M2.83088235,10.2426471 L9.31617647,10.2426471" id="Shape"></path>
+                    <path d="M2.83088235,7.46323529 L9.31617647,7.46323529" id="Shape"></path>
+                    <path d="M2.83088235,4.68382353 L4.68382353,4.68382353" id="Shape"></path>
+                    <polygon id="Shape" points="7.46323529 0.0514705882 0.0514705882 0.0514705882 0.0514705882 13.9485294 12.0955882 13.9485294 12.0955882 4.68382353"></polygon>
+                    <polyline id="Shape" points="7.46323529 0.0514705882 7.46323529 4.68382353 12.0955882 4.68382353"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

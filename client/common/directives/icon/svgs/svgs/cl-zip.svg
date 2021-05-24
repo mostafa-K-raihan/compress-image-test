@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24">
+	<g transform="translate(0, 0)">
+		<path d="M21,0H13V5h2a1,1,0,0,1,1,1v5a1,1,0,0,1-1,1H9a1,1,0,0,1-1-1V6A1,1,0,0,1,9,5h2V0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM14,20H10V18h4Zm0-4H10V14h4Z"
+		 fill="#444444">
+		</path>
+		<rect data-color="color-2" x="10" y="7" width="4" height="3" fill="#444444"></rect>
+	</g>
+</svg>

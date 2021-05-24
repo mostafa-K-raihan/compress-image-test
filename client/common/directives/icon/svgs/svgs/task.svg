@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <defs></defs>
+    <g id="0810" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-44-Copy-18" transform="translate(1.000000, 1.000000)" stroke="#2E2A26" stroke-width="1.4">
+            <g id="todo-(4)-copy-7">
+                <path d="M8.625,1.125 L9.375,1.125 C9.78921356,1.125 10.125,1.46078644 10.125,1.875 L10.125,10.875 C10.125,11.2892136 9.78921356,11.625 9.375,11.625 L1.125,11.625 C0.710786438,11.625 0.375,11.2892136 0.375,10.875 L0.375,1.875 C0.375,1.46078644 0.710786438,1.125 1.125,1.125 L1.875,1.125" id="Shape"></path>
+                <rect id="Rectangle-path" x="3.375" y="0.375" width="3.75" height="1.5"></rect>
+                <path d="M3,5 L7.5,5" id="Shape"></path>
+                <path d="M3,8 L7.5,8" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

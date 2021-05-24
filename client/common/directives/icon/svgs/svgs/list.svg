@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16">
+    <g transform="translate(0, 0)">
+        <rect x="6" y="1" fill="#444444" width="10" height="2"></rect>
+        <rect x="6" y="7" fill="#444444" width="10" height="2"></rect>
+        <rect x="6" y="13" fill="#444444" width="10" height="2"></rect>
+        <path data-color="color-2" fill="#444444" d="M3,0H1C0.4,0,0,0.4,0,1v2c0,0.6,0.4,1,1,1h2c0.6,0,1-0.4,1-1V1C4,0.4,3.6,0,3,0z"></path>
+        <path data-color="color-2" fill="#444444" d="M3,6H1C0.4,6,0,6.4,0,7v2c0,0.6,0.4,1,1,1h2c0.6,0,1-0.4,1-1V7C4,6.4,3.6,6,3,6z"></path>
+        <path data-color="color-2" fill="#444444" d="M3,12H1c-0.6,0-1,0.4-1,1v2c0,0.6,0.4,1,1,1h2c0.6,0,1-0.4,1-1v-2C4,12.4,3.6,12,3,12z"></path>
+    </g>
+</svg>

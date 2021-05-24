@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16">
+    <g transform="translate(0, 0)">
+        <circle fill="#444444" cx="8" cy="5" r="5"></circle>
+        <path data-color="color-2" fill="#444444" d="M8,12c-1.1,0-2.1-0.3-3-0.7V16l3-2l3,2v-4.7C10.1,11.7,9.1,12,8,12z"></path>
+    </g>
+</svg>

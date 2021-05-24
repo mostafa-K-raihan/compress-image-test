@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" class="svg-icon-loader"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="800px" viewBox="25 25 50 50" enable-background="new 25 25 50 50" xml:space="preserve">
+	 <style>
+		.svg-icon-loader {
+	-webkit-animation: rotate 2s linear infinite;
+			 animation: rotate 2s linear infinite;
+	height: 100%;
+	-webkit-transform-origin: center center;
+			 transform-origin: center center;
+	margin: auto;
+	width: 50px;
+	}
+
+	.path {
+	stroke-dasharray: 1, 200;
+	stroke-dashoffset: 0;
+	-webkit-animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+			 animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+	stroke-linecap: round;
+	}
+
+	@-webkit-keyframes rotate {
+	100% {
+	-webkit-transform: rotate(360deg);
+				 transform: rotate(360deg);
+	}
+	}
+
+	@keyframes rotate {
+	100% {
+	-webkit-transform: rotate(360deg);
+				 transform: rotate(360deg);
+	}
+	}
+	@-webkit-keyframes dash {
+	0% {
+	stroke-dasharray: 1, 200;
+	stroke-dashoffset: 0;
+	}
+	50% {
+	stroke-dasharray: 89, 200;
+	stroke-dashoffset: -35px;
+	}
+	100% {
+	stroke-dasharray: 89, 200;
+	stroke-dashoffset: -124px;
+	}
+	}
+	@keyframes dash {
+	0% {
+	stroke-dasharray: 1, 200;
+	stroke-dashoffset: 0;
+	}
+	50% {
+	stroke-dasharray: 89, 200;
+	stroke-dashoffset: -35px;
+	}
+	100% {
+	stroke-dasharray: 89, 200;
+	stroke-dashoffset: -124px;
+	}
+	}
+	@-webkit-keyframes color {
+	100%,
+	0% {
+	stroke: #702BD8;
+	}
+	40% {
+	stroke:  #D6C4F2;
+	}
+	66% {
+	stroke: #702BD8;
+	}
+	80%,
+	90% {
+	stroke: #D6C4F2;
+	}
+	}
+	@keyframes color {
+	100%,
+	0% {
+	stroke: #702BD8;
+	}
+	40% {
+	stroke:  #D6C4F2;
+	}
+	66% {
+	stroke: #702BD8;
+	}
+	80%,
+	90% {
+	stroke: #D6C4F2;
+	}
+	}
+	 </style>
+<circle class="path" fill="none" cx="50" cy="50" r="20" stroke-width="3" stroke-miterlimit="10"/>
+</svg>

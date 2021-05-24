@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Analytics-2018_Content_returning_A-Copy" transform="translate(-431.000000, -244.000000)" stroke="#444444">
-            <g id="preview-copy-2" transform="translate(431.000000, 244.000000)">
-                <path d="M0.75,9 C0.75,9 5.25,0.75 12,0.75 C18.75,0.75 23.25,9 23.25,9 C23.25,9 18.75,17.25 12,17.25 C5.25,17.25 0.75,9 0.75,9 Z" id="Shape"></path>
-                <circle id="Oval" cx="12" cy="9" r="3.75"></circle>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="18" version="1.1" viewBox="0 0 24 18"><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><g id="Analytics-2018_Content_returning_A-Copy" stroke="#444" transform="translate(-431.000000, -244.000000)"><g id="preview-copy-2" transform="translate(431.000000, 244.000000)"><path id="Shape" d="M0.75,9 C0.75,9 5.25,0.75 12,0.75 C18.75,0.75 23.25,9 23.25,9 C23.25,9 18.75,17.25 12,17.25 C5.25,17.25 0.75,9 0.75,9 Z"/><circle id="Oval" cx="12" cy="9" r="3.75"/></g></g></g></svg>

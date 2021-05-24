@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="inline-edit" transform="translate(-737.000000, -376.000000)" fill="#2E2A26" fill-rule="nonzero">
-            <path d="M748.335029,380.292893 C748.725553,379.902369 749.358718,379.902369 749.749242,380.292893 C750.139767,380.683418 750.139767,381.316582 749.749242,381.707107 L746.678175,384.778175 C746.28765,385.168699 745.654485,385.168699 745.263961,384.778175 L738.192893,377.707107 C737.802369,377.316582 737.802369,376.683418 738.192893,376.292893 C738.583418,375.902369 739.216582,375.902369 739.607107,376.292893 L745.971068,382.656854 L748.335029,380.292893 Z" id="Line-5-Copy-4" transform="translate(743.971068, 380.535534) scale(-1, 1) translate(-743.971068, -380.535534) "></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="10" version="1.1" viewBox="0 0 13 10"><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="inline-edit" fill="#2E2A26" fill-rule="nonzero" transform="translate(-737.000000, -376.000000)"><path id="Line-5-Copy-4" d="M748.335029,380.292893 C748.725553,379.902369 749.358718,379.902369 749.749242,380.292893 C750.139767,380.683418 750.139767,381.316582 749.749242,381.707107 L746.678175,384.778175 C746.28765,385.168699 745.654485,385.168699 745.263961,384.778175 L738.192893,377.707107 C737.802369,377.316582 737.802369,376.683418 738.192893,376.292893 C738.583418,375.902369 739.216582,375.902369 739.607107,376.292893 L745.971068,382.656854 L748.335029,380.292893 Z" transform="translate(743.971068, 380.535534) scale(-1, 1) translate(-743.971068, -380.535534)"/></g></g></svg>
